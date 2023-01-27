@@ -24,3 +24,4 @@
 
 - npm test or yarn tes
 #### :arrow_down: **Reports Preview Below**
+<img width="600" alt="report" src="https://github.com/SaBiHaTaHsEeN/Dmoney-Users-API-Testing-Using-Postman/blob/main/report/report.png">
